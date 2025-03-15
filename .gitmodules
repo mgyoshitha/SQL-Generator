@@ -1,0 +1,3 @@
+[submodule "submodules/BloodConnect"]
+	path = submodules/BloodConnect
+	url = https://github.com/DurgaPrasad-Nekkanti/BloodConnect
